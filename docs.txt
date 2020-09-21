@@ -1,0 +1,9 @@
+yarn add -D @types/styled-components          -> Adiciona como dependencia de desenvolvimento o tipo de estilização que sera usada no projeto.
+
+yarn add styled-components                    -> Adiciona como dependencia o styled-components (utilizamos para estilziar nossa page)
+
+yarn add frame-motion                         -> Adiciona como dependencia o frame-motion (vamos utilizar para animar nossa homepage)
+
+
+
+
